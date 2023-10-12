@@ -1,11 +1,11 @@
+logs/
+logs/asd.txt
 Thumbs.db*
 .DS_Store
 HELP.md
 .gradle
 build/
 src/main/*
-logs/*
-logs/asd.txt
 ### STS ###
 .apt_generated
 .classpath
